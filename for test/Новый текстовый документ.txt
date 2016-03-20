@@ -1,0 +1,8 @@
+<ul id="menu">
+<li><a href ="#">Главная</a></li>
+<li><a href ="#">Статьи</a></li>
+<li><a href ="#">Новости</a></li>
+<li><a href ="#">О нас</a></li>
+<li><a href ="#">Меню сайта</a></li>
+
+</ul>
